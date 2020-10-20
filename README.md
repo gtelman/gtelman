@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<center>
+
+  <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtelman&hide=html&layout=compact&theme=react" />
+</center>
+
 <!--
 **gtelman/gtelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
